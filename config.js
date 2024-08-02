@@ -118,11 +118,11 @@ global.vs = "1"
 global.vsJB = "1"
 
 global.gt = "𝚉𝚊𝚔𝚊𝚎 𝙱𝚘𝚝 🇦🇱"
-global.yt = "https://www.instagram.com/soy.kath_"
-global.yt2 = "https://www.instagram.com/soy.kath_"
-global.ig = "https://www.instagram.com/soy.kath_"
-global.md = "https://www.instagram.com/soy.kath_"
-global.fb = "https://www.instagram.com/soy.kath_"
+global.yt = "https://www.instagram.com/soy.kath__"
+global.yt2 = "https://www.instagram.com/soy.kath__"
+global.ig = "https://www.instagram.com/soy.kath__"
+global.md = "https://www.instagram.com/soy.kath__"
+global.fb = "https://www.instagram.com/soy.kath__"
 
 global.nna = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV' //CANAL UPDATE
 global.nn2 = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV' //UPDATE
